@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machnine learning,deep learning
 - 📫 How to reach me
 - here's my
+- email-garvkhurana1234567@gmail.com
 - instagram-garv.22
 - linkedln-Garv Khurana
 
