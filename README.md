@@ -4,7 +4,6 @@
 - 📫 How to reach me
 - here's my
 - Email- garvkhurana1234567@gmail.com
-- instagram-garv.22
 - linkedln-Garv Khurana
 
 <!---
