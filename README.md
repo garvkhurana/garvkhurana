@@ -4,7 +4,7 @@
 - 📫 How to reach me
 - here's my
 - Email- garvkhurana1234567@gmail.com
-- linkedln-Garv Khurana
+- linkedin-Garv Khurana
 
 <!---
 garvkhurana/garvkhurana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
