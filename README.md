@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science,machine learning,artificial intelligence
 - 🌱 I’m currently learning machine learning,deep learning
 - 📫 How to reach me
-- here's my
+  here's my
 - Email- garvkhurana1234567@gmail.com
 - linkedin-Garv Khurana
 
